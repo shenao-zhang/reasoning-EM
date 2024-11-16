@@ -124,7 +124,7 @@ dependencies:
       - partial-json-parser==0.2.1.1.post4
       - pathvalidate==3.2.1
       - pebble==5.0.7
-      - peft==0.13.3.dev0
+        #  - peft==0.13.3.dev0
       - pillow==10.4.0
       - platformdirs==4.3.6
       - portalocker==2.10.1
